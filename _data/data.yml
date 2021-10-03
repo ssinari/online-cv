@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Shripad Sinari
     tagline: Biostatistician
-    avatar: biopic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: shripad.sinari@gmail.com
