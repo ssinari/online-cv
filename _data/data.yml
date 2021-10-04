@@ -76,14 +76,16 @@ experiences:
 projects:
     title: Career Highlights
     intro: >     
-     - Decided appropriate statistical strategies on several grants and projects.
-     - Analyzed data with missing or repeated measures, time to event response or relative abundance measures such as RNA-Seq and microbiome datasets.
-     - Ensured data provenance with good data hygiene.
-     - Used Bayesian, empirical Bayes, and frequentist techniques as appropriate.
-     - Managed client expectations with timely delivery of complex analyses, meeting pre and post funding deliverables, resulting in highly cited publications.
-     - Successfully completed support as primary statistician on multi- center, multi-year complex grants and projects (Program Projects and R01).
-
     assignments:
+      - title: Statistical
+        link: "#"
+        tagline: |        
+         - Decided appropriate statistical strategies on several grants and projects.
+         - Analyzed data with missing or repeated measures, time to event response or relative abundance measures such as RNA-Seq and microbiome datasets.
+         - Ensured data provenance with good data hygiene.
+         - Used Bayesian, empirical Bayes, and frequentist techniques as appropriate.
+         - Managed client expectations with timely delivery of complex analyses, meeting pre and post funding deliverables, resulting in highly cited publications.
+         - Successfully completed support as primary statistician on multi- center, multi-year complex grants and projects (Program Projects and R01).
       - title: Velocity
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
