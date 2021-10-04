@@ -59,26 +59,30 @@ education:
 
 experiences:
     - role: Statistician
-      time: 2013 - Present
+      time: Jan 2013 - Present
       company: BIO5 Institute, The University of Arizona
       details: |
         Provides statistical and computing expertise in basic, applied and clinical research.
     - role: Staff Scientist
-      time: 2011 - 2013
+      time: Nov 2011 - Jan 2013
       company: Life Technologies
       details: |
         Provided diagnostic and analytical support for Ion Torrent Technology.
     - role: Bioinformatician
-      time: 2008 - 2011
+      time: Mar 2008 - Nov 2011
       company: Translational Genomics Research Institute
       details: |
         Developed analysis workflows and structural variation algorithms
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Career Highlights
+    intro: >     
+     - Decided appropriate statistical strategies on several grants and projects.
+     - Analyzed data with missing or repeated measures, time to event response or relative abundance measures such as RNA-Seq and microbiome datasets.
+     - Ensured data provenance with good data hygiene.
+     - Used Bayesian, empirical Bayes, and frequentist techniques as appropriate.
+     - Managed client expectations with timely delivery of complex analyses, meeting pre and post funding deliverables, resulting in highly cited publications.
+     - Successfully completed support as primary statistician on multi- center, multi-year complex grants and projects (Program Projects and R01).
+
     assignments:
       - title: Velocity
         link: "#hook"
